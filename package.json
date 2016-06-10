@@ -1,0 +1,21 @@
+{
+  "name": "energy-auto-apk-updater-server",
+  "version": "0.0.1",
+  "description": "NodeJs app for provide service to the Energy Auto Apk Updater library.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/energysistem/energy-auto-apk-updater-server.git"
+  },
+  "keywords": [
+    "apk",
+    "update",
+    "server"
+  ],
+  "author": "Vicente Giner Tendero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/energysistem/energy-auto-apk-updater-server/issues"
+  },
+  "homepage": "https://github.com/energysistem/energy-auto-apk-updater-server"
+}
